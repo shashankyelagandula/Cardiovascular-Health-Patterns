@@ -36,6 +36,18 @@ Notebook: [`Visualizations notebook.ipynb`](./notebooks/Visualizations%20noteboo
 ## 📁 Dataset
 Due to privacy restrictions, the full dataset is not included. Contact us for access if needed.
 
+## 🖼️ Sample Results
+
+### 📊 Accuracy Comparison
+![Accuracy Chart](https://github.com/yourusername/cardio-predictor/raw/main/screenshots/accuracy.png)
+
+### 🔍 ROC Curve
+![ROC Curve](https://github.com/yourusername/cardio-predictor/raw/main/screenshots/roc_curve.png)
+
+### 💻 Dashboard Preview
+![Dashboard](https://github.com/yourusername/cardio-predictor/raw/main/screenshots/dashboard.png)
+
+
 ## 📌 Future Improvements
 - Add more features to improve accuracy
 - Build frontend in Angular or React
