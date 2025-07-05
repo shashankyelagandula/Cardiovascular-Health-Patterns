@@ -38,7 +38,7 @@ Due to privacy restrictions, the full dataset is not included. Contact us for ac
 
 ## 🖼️ Sample Results
 
-screenshots
+[screenshots](https://github.com/shashankyelagandula/Cardiovascular-Health-Patterns/tree/8b63f9898181c86862831168d86919ef9ec5a4ce/screenshots)
 
 
 ## 📌 Future Improvements
