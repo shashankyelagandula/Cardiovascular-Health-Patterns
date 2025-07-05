@@ -38,14 +38,7 @@ Due to privacy restrictions, the full dataset is not included. Contact us for ac
 
 ## 🖼️ Sample Results
 
-### 📊 Accuracy Comparison
-![Accuracy Chart](https://github.com/yourusername/cardio-predictor/raw/main/screenshots/accuracy.png)
-
-### 🔍 ROC Curve
-![ROC Curve](https://github.com/yourusername/cardio-predictor/raw/main/screenshots/roc_curve.png)
-
-### 💻 Dashboard Preview
-![Dashboard](https://github.com/yourusername/cardio-predictor/raw/main/screenshots/dashboard.png)
+screenshots
 
 
 ## 📌 Future Improvements
