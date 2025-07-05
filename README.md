@@ -31,7 +31,7 @@ python app.py
 Hosted at: [mason.gmu.edu/~aanumall](http://mason.gmu.edu/~aanumall)
 
 ## 📈 Visualizations
-Notebook: [`Visualizations notebook.ipynb`]([./notebooks/Visualizations%20notebook.ipynb](https://github.com/shashankyelagandula/Cardiovascular-Health-Patterns/blob/main/Visualizations%20notebook.ipynb))
+Notebook: [[`Visualizations notebook.ipynb`]([./notebooks/Visualizations%20notebook.ipynb](https://github.com/shashankyelagandula/Cardiovascular-Health-Patterns/blob/main/Visualizations%20notebook.ipynb))](https://github.com/shashankyelagandula/Cardiovascular-Health-Patterns/blob/a5d9ea2e40d892cb51f2c6c72f6924f799c2935b/Visualizations%20notebook.ipynb)
 
 ## 📁 Dataset
 Due to privacy restrictions, the full dataset is not included. Contact us for access if needed.
