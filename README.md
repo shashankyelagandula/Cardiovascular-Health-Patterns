@@ -1,6 +1,7 @@
 # Cardiovascular Health Prediction
 
-🩺 A predictive analytics project on cardiovascular health using statistical modeling and machine learning. Built with Dash for interactive predictions.
+🩺 A predictive analytics project focused on uncovering patterns in cardiovascular disease using data science techniques — including visualization, statistical analysis, and machine learning. Built with Dash for interactive prediction.
+
 
 ## 👨‍🔬 Team Members
 - Shashank Yelagandula
@@ -9,11 +10,15 @@
 - Pavan Tejavath
 
 ## 🚀 Features
-- Cleaned and analyzed data of 70,000 patients
-- Used statistical methods and visualizations
-- Compared 14 ML models — best was Gradient Boosting (AUC 81%)
-- Built an interactive prediction tool using Dash
+- Cleaned and analyzed data of 70,000 patients  
+- Used descriptive statistics and correlation analysis  
+- Built and evaluated 14 machine learning models  
+- Gradient Boosting achieved the best performance:  
+  - **Accuracy:** 74%  
+  - **AUC:** 81%  
+- Interactive prediction tool built using Dash
 
+  
 ## 📊 Technologies Used
 - Python, Pandas, NumPy, Matplotlib, Seaborn
 - Scikit-learn, XGBoost
@@ -33,8 +38,13 @@ Hosted at: [mason.gmu.edu/~aanumall](http://mason.gmu.edu/~aanumall)
 ## 📈 Visualizations
 [Visualizations notebook](https://github.com/shashankyelagandula/Cardiovascular-Health-Patterns/blob/main/Visualizations%20notebook.ipynb)
 
-## 📁 Dataset
-Due to privacy restrictions, the full dataset is not included. Contact us for access if needed.
+📈 Visualizations  
+See: [Visualizations notebook.ipynb](./Visualizations%20notebook.ipynb)
+
+
+📁 Dataset  
+Due to privacy restrictions, the full dataset is not included in this repo. A sample can be shared on request.
+
 
 ## 🖼️ Sample Results
 
